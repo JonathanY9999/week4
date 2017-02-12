@@ -1,0 +1,34 @@
+---
+title: "Demo of fars_summarize_years() & fars_map_state()"
+author: "JY"
+date: "February 11, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## fars_map_state call example
+
+```{r fars_summarize_years}
+library(aaaJYPkg4)
+library(dplyr)
+setwd("C:/repo/week4/data")
+fars_summarize_years(c(2013,2014,2015))
+#map1 <- fars_map_state( 34, 2010 )
+```
+
+## fars_map_state call example
+
+
+```{r fars_map_state}
+library(aaaJYPkg4)
+library(maps)
+setwd("C:/repo/week4/data")
+fars_map_state(21,2013)
+fars_map_state(21,2014)
+fars_map_state(21,2015)
+```
+
+

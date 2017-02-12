@@ -1,0 +1,13 @@
+Package: aaaJYPkg4
+Type: Package
+Title: Traffic indicent mapping tools
+Version: 0.2
+Date: 2017-02-07
+Author: Jonathan Yang
+Maintainer: Jonathan Yang <JonathanYang9999@gmail.Com>
+Depends: R (>= 3.0.1)
+Description: Exercose No. 1
+License: GPL2.0
+LazyLoad: yes
+RoxygenNote: 6.0.0
+VignetteBuilder: knitr
