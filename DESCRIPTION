@@ -10,4 +10,3 @@ Description: Exercose No. 1
 License: GPL2.0
 LazyLoad: yes
 RoxygenNote: 6.0.0
-VignetteBuilder: knitr
