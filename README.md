@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/JonathanY9999/week4.svg?branch=master)](https://travis-ci.org/JonathanY9999/week4)
+
+
+[![Travis-CI Build Status](https://travis-ci.org/JonathanY9999/week4.svg?branch=master)](https://travis-ci.org/JonathanY9999/week4)
 
 Aim of this package
 
