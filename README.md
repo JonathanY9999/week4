@@ -1,5 +1,4 @@
-![alt tag](https://0.gravatar.com/avatar/b28330580fb067d15fab23a8bac048dd?v=3&s=18)
-
+[![Build Status](https://travis-ci.org/JonathanY9999/week4.svg?branch=master)](https://travis-ci.org/JonathanY9999/week4)
 
 Aim of this package
 
